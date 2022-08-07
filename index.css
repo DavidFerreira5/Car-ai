@@ -1,0 +1,18 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(83, 81, 81);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button:hover{
+    background:blue;
+}
+
+#caranvas{
+    background: lightgray;
+}
+#networkCanvas{
+    background: black;
+}
